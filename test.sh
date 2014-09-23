@@ -1,4 +1,5 @@
+
 echo "Test"
-echo "Meow"
-echo "me ao"
+echo "I could fail"
+echo "I pass"
 exit 0
