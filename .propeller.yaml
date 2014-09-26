@@ -16,10 +16,10 @@ services:
         services:
           - postgres
       heroku:
-        app: juststuffs
+        app: felineThings
   - backend:
       language: nodejs
       propeller:
         instances: 1
       heroku:
-        app: juststuffs
+        app: ycats
