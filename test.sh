@@ -1,4 +1,5 @@
 
+echo " test kittenStuff "
 echo "Test"
 echo "I could fail"
 echo "I pass"
