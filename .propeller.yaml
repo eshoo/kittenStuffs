@@ -8,18 +8,13 @@ services:
       language: nodejs
       nodejs:
         - 0.10
-        - 0.11
       propeller:
         ports:
           FRONTEND_HTTP: 8000 
           MYSQL: 3306
         services:
           - postgres
-      heroku:
-        app: felineThings
   - backend:
       language: nodejs
       propeller:
         instances: 1
-      heroku:
-        app: ycats
