@@ -16,7 +16,6 @@
     "morgan": "~1.0.0",
     "okapi": "0.0.8",
     "pg": "^3.4.1",
-    "serve-favicon": "^2.1.4",
     "static-favicon": "~1.0.0"
   }
 }
